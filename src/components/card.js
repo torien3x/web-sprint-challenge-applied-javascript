@@ -18,6 +18,8 @@ const Card = (article) => {
   // </div>
   //
 
+  // comment for submit
+
   // Create the outermost <div> element with the "card" class
   const cardElement = document.createElement('div');
   cardElement.className = 'card';
